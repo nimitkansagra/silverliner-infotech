@@ -12,9 +12,9 @@
                                 </div>
                                 <h1 class="sl-title wow fadeInLeft" data-wow-delay="600ms" data-wow-duration="2000ms">We specialize in </h1>
 
-                                <h1 class="sl-title2 mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Repair Gadgates</h1>
+                                <h1 class="sl-title2 mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Office Automation</h1>
                                 <div class="sl-desc wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum quis nostrud.
+                                    Need to speed up your work ? <br>We provide best in class Office Automation Services.
                                 </div>
                                 <div class="sl-btn wow fadeInup" data-wow-delay="600ms" data-wow-duration="4000ms">
                                     <a class="readon buy-now sl-btn" href="about.php">Get started now</a>
@@ -30,9 +30,9 @@
                                 </div>
                                 <h1 class="sl-title wow fadeInleft" data-wow-delay="600ms" data-wow-duration="2000ms">We specialize in </h1>
 
-                                <h1 class="sl-title2 mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Repair Gadgates</h1>
+                                <h1 class="sl-title2 mb-mb-10 wow fadeInRight" data-wow-delay="600ms" data-wow-duration="2000ms">Office Automation</h1>
                                 <div class="sl-desc wow fadeInUp" data-wow-delay="900ms" data-wow-duration="2000ms">
-                                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum quis nostrud.
+                                    Worried about one step Office Automatin Services ? <br>Talk to our experts today and get complete solutions.
                                 </div>
                                 <div class="sl-btn wow backInUp" data-wow-delay="400ms" data-wow-duration="3000ms">
                                     <a class="readon buy-now sl-btn" href="about.php">Get started now</a>
@@ -52,7 +52,7 @@
                             <div class="sec-title mb-30 z-index-1">
                                 <div class="sub-text">About Us</div>
                                 <h2 class=" title title3 pb-30">
-                                    Silver Liner Infotech - IT Services and Gadgets Repair Since 1980
+                                    Silver Liner Infotech - Complete IT support and Office Automation
                                 </h2>
                                 <div class="desc pb-30">
                                     Over 25 years working in IT services developing software applications and mobile apps for clients all over the world.
@@ -67,14 +67,14 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="home8-about z-index-1">
-                                <img src="assets/images/about/about-7.png" alt="images">
+                                <img src="assets/images/about/about-2.png" alt="images">
                             </div>
 
                         </div>
                     </div>
-                    <div class="sec-right">
+                    <!--<div class="sec-right">
                         <h2 class="title wow fadeInDown">40+ Years Experience</h2>
-                    </div>
+                    </div>-->
                 </div>
                 <div class="shape-part">
                     <div class="left-side">
@@ -208,7 +208,7 @@
                                </div>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 md-mb-25">
+                        <div class="col-lg-4 col-md-6 mb-25">
                            <div class="services-item">
                                <div class="services-icon">
                                    <div class="image-part">
@@ -227,7 +227,7 @@
                                </div>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 sm-mb-25">
+                        <div class="col-lg-4 col-md-6 mb-25">
                            <div class="services-item">
                                <div class="services-icon">
                                    <div class="image-part">
@@ -246,7 +246,7 @@
                                </div>
                            </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 mb-25">
                            <div class="services-item">
                                <div class="services-icon">
                                    <div class="image-part">
@@ -256,6 +256,63 @@
                                <div class="services-content">
                                    <div class="services-text">
                                        <h3 class="services-title"><a href="software-development.php">Networking</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 md-mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/customer-service.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">Sales & Support</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 sm-mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/led-light.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">LED Panel</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 sm-mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/cash-counter.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">Note Counting Machine</a></h3>
                                    </div>
                                    <div class="services-desc">
                                        <p>
@@ -291,10 +348,6 @@
                                         <i class="fa fa-check"></i>
                                         <span>Professional business repair services</span>
                                     </li>
-                                    <li>
-                                        <i class="fa fa-check"></i><span>
-                                        Recover data that may seem lost</span>
-                                    </li>
                                     <li><i class="fa fa-check"></i><span>Quick Error Resolution</span></li>
                                     <li>
                                         <i class="fa fa-check"></i>
@@ -308,17 +361,21 @@
                                         <i class="fa fa-check"></i>
                                         <span>Network infrastructure implementation</span>
                                     </li>
+                                    <li>
+                                        <i class="fa fa-check"></i>
+                                        <span>All types of Printing Solutions</span>
+                                    </li>
                                 </ul>
                             </div>
                         </div>
                         <div class="col-lg-6">
                             <div class="features-wrap">
                                 <h2 class="sub-title">CALL US 24/7</h2>
-                                <h1 class="title"> (+123) 456-9989</h1>
+                                <h1 class="title"> (+91) 91631-05723</h1>
                                 <div class="desc">
                                     Have any idea or project for in your mind call us or schedule a appointment. Our representative will reply you shortly
                                 </div>
-                                <a class="readon learn-more learn-btn" href="contact.html">Let's Talk</a>
+                                <a class="readon learn-more learn-btn" href="contact.php">Let's Talk</a>
                             </div>
                         </div>
                     </div>
@@ -404,7 +461,7 @@
             <!-- Process Section End -->
 
             <!-- Testimonial Section Start -->
-            <div class="rs-testimonial main-home style2 modify1 bg16">
+            <!--<div class="rs-testimonial main-home style2 modify1 bg16">
                <div class="overlayer pt-120 pb-120 md-pt-75 md-pb-80">
                    <div class="container pt-relative">
                     <div class="sec-left">
@@ -537,7 +594,7 @@
                        </div>
                    </div>
                </div>
-            </div>
+           </div>-->
             <!-- Testimonial Section End -->
 
             <!-- Blog Section Start -->
@@ -655,78 +712,87 @@
             <!-- Blog Section End -->
 
             <!-- Partner Start -->
-            <div class="rs-partner style3 pt-80 pb-70">
+            <div class="rs-partner style2 pt-80 pb-70">
                 <div class="container">
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/1.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/1.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/1.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/1.png" alt="">-->
+                                    <img src="assets/images/partner/1.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/2.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/2.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/2.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/2.png" alt="">-->
+                                    <img src="assets/images/partner/2.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/3.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/3.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/3.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/3.png" alt="">-->
+                                    <img src="assets/images/partner/3.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/4.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/4.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/4.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/4.png" alt="">-->
+                                    <img src="assets/images/partner/4.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/5.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/5.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/5.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/5.png" alt="">-->
+                                    <img src="assets/images/partner/5.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/6.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/6.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/6.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/6.png" alt="">-->
+                                    <img src="assets/images/partner/6.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/7.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/7.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/7.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/7.png" alt="">-->
+                                    <img src="assets/images/partner/7.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/8.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/8.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/8.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/8.png" alt="">-->
+                                    <img src="assets/images/partner/8.png" alt="">
                                 </a>
                             </div>
                         </div>
                         <div class="partner-item">
                             <div class="logo-img">
-                                <a href="https://rstheme.com">
-                                    <img class="hover-logo" src="assets/images/partner/9.png" alt="">
-                                    <img class="main-logo" src="assets/images/partner/9.png" alt="">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/9.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/9.png" alt="">-->
+                                    <img src="assets/images/partner/9.png" alt="">
                                 </a>
                             </div>
                         </div>

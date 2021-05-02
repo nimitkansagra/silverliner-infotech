@@ -29,11 +29,12 @@
                 <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
                     <h3 class="widget-title">IT Services</h3>
                     <ul class="site-map">
-                        <li><a href="software-development.html">Software Development</a></li>
-                        <li><a href="web-development.html">Web Development</a></li>
-                        <li><a href="case-studies-single.html">Analytic Solutions</a></li>
-                        <li><a href="cloud-and-devops.html">Cloud and DevOps</a></li>
-                        <li><a href="product-design.html">Project Design</a></li>
+                        <li><a href="#">Software Development</a></li>
+                        <li><a href="#">Web Development</a></li>
+                        <li><a href="#">Networking solution</a></li>
+                        <li><a href="#">Cloud and Bakup Solutions</a></li>
+                        <li><a href="#">Project Implementation</a></li>
+                        <li><a href="#">Office Automation</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
