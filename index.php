@@ -384,7 +384,7 @@
             <!-- Why Choose Section End -->
 
             <!-- Process Section Start -->
-            <div class="rs-process style4 bg15 pt-120 pb-120 md-pt-80 md-pb-70">
+            <!--<div class="rs-process style4 bg15 pt-120 pb-120 md-pt-80 md-pb-70">
                 <div class="container pt-relative">
                     <div class="sec-left">
                         <h2 class="title wow fadeInDown">Working Process</h2>
@@ -457,7 +457,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <!-- Process Section End -->
 
             <!-- Testimonial Section Start -->
@@ -711,8 +711,83 @@
             </div>
             <!-- Blog Section End -->
 
+            <!-- Process Section Start -->
+            <div class="rs-process style4 bg15 pt-60 pb-60 md-pt-80 md-pb-70">
+                <div class="container pt-relative">
+                    <div class="sec-title2 text-center mb-45">
+                        <h2 class="title">Happy Clients</h2>
+                        <div class="heading-line"></div>
+                    </div>
+                    <br>
+                    <div class="row align-items-center">
+                        <div class="col-lg-12">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <ul class="listing-style">
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>P C Chandra Jewelers</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Loreto Day School</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Army</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>St. Sebastian</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Hahneman’s Laboratory</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-6">
+                                    <ul class="listing-style">
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Central Excise</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Door Darshan Kendra</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>Port Health Organisation</span>
+                                        </li>
+                                        <li>
+                                            <i class="fa fa-check-circle"></i>
+                                            <span>St. Anthony High School</span>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!--<div class="col-lg-4 pr-30 md-pl-15 md-pb-100">
+                           <div class="rs-step">
+                               <div class=" media-icon video-item">
+                                   <a class="popup-videos" href="https://www.youtube.com/watch?v=meCtmW7NrK8">
+                                       <i class="fa fa-play"></i>
+                                   </a>
+                               </div>
+                           </div>
+                       </div>-->
+                    </div>
+                </div>
+            </div>
+            <!-- Process Section End -->
+
             <!-- Partner Start -->
-            <div class="rs-partner style2 pt-80 pb-70">
+            <div class="rs-partner style2 text-center pt-80 pb-70">
+                <div class="sec-title2 text-center mb-45">
+                    <h3 class="title">Channel Partners</h3>
+                    <div class="heading-line"></div>
+                </div>
                 <div class="container">
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
                         <div class="partner-item">
