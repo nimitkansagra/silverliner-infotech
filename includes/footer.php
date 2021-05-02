@@ -63,7 +63,7 @@
                         <li>
                             <i class="flaticon-clock-1"></i>
                             <div class="desc">
-                                Office Hours: 9:00AM - 6:00PM
+                                Office Hours: 9:30AM - 5:30PM
                             </div>
                         </li>
                     </ul>
