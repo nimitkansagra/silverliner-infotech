@@ -7,7 +7,7 @@
                     <div class="footer-logo mb-30">
                         <a href="index.html"><img src="assets/images/logo-dark.png" alt=""></a>
                     </div>
-                      <div class="textwidget pb-30"><p>Sedut perspiciatis unde omnis iste natus error sitlutem acc usantium doloremque denounce with illo inventore veritatis</p>
+                      <div class="textwidget pb-30"><p>We had started our journey in the world of Information Technology & Office Automation in the Year 2017 with a very humble but technically strong beginning.</p>
                       </div>
                       <ul class="footer-social md-mb-30">
                           <li>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-lg-3 col-md-12 col-sm-12">
                     <h3 class="widget-title">Newsletter</h3>
-                    <p class="widget-desc">We denounce with righteous and in and dislike men who are so beguiled and demo realized.</p>
+                    <p class="widget-desc">Subscribe to our newslatter</p>
                     <p>
                         <input type="email" name="EMAIL" placeholder="Your email address" required="">
                         <em class="paper-plane"><input type="submit" value="Sign up"></em>

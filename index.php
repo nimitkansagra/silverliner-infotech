@@ -55,10 +55,10 @@
                                     Silver Liner Infotech - Complete IT support and Office Automation
                                 </h2>
                                 <div class="desc pb-30">
-                                    Over 25 years working in IT services developing software applications and mobile apps for clients all over the world.
+                                    We had started our journey in the world of Information Technology & Office Automation in the Year 2017 with a very humble but technically strong beginning. Over the years we have grown as an organization providing turnkey end to end solution in the field of Photocopier, Motion wastebin, LED panel, Networking, Cloud Storage & Backup solution, CCTV / Bio-metric, Website Development, Office AMC.
                                 </div>
                                 <div class="desc-part">
-                                    We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying
+
                                 </div>
                                 <div class="btn-part mt-40">
                                     <a class="readon learn-more learn-btn" href="contact.php">Learn More</a>
@@ -90,8 +90,9 @@
             <!-- Services Section Start -->
             <div class="rs-services main-home style3 bg13 pt-120 pb-120 md-pt-80 md-pb-80">
                 <div class="container pt-relative">
-                    <div class="sec-left">
-                        <h2 class="title wow fadeInDown">Our Featured Services</h2>
+                    <div class="sec-title2 text-center mb-45">
+                        <h2 class="title">Our Core Services</h2>
+                        <div class="heading-line"></div>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-md-6 mb-25">
@@ -117,12 +118,50 @@
                            <div class="services-item">
                                <div class="services-icon">
                                    <div class="image-part">
-                                       <img src="assets/images/services/style6/recycle-bin.png" alt="">
+                                       <img src="assets/images/services/style6/water-filter.png" alt="">
                                    </div>
                                </div>
                                <div class="services-content">
                                    <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">Motion Sensor Wastebin</a></h3>
+                                       <h3 class="services-title"><a href="software-development.php">Industrial Water Purifier</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 sm-mb-25">
+                            <div class="services-item">
+                                <div class="services-icon">
+                                    <div class="image-part">
+                                        <img src="assets/images/services/style6/led-light.png" alt="">
+                                    </div>
+                                </div>
+                                <div class="services-content">
+                                    <div class="services-text">
+                                        <h3 class="services-title"><a href="software-development.php">LED Panel</a></h3>
+                                    </div>
+                                    <div class="services-desc">
+                                        <p>
+                                            At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/network.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">Networking</a></h3>
                                    </div>
                                    <div class="services-desc">
                                        <p>
@@ -136,12 +175,56 @@
                            <div class="services-item">
                                <div class="services-icon">
                                    <div class="image-part">
-                                       <img src="assets/images/services/style6/water-filter.png" alt="">
+                                       <img src="assets/images/services/style6/service.png" alt="">
                                    </div>
                                </div>
                                <div class="services-content">
                                    <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">Industrial Water Purifier</a></h3>
+                                       <h3 class="services-title"><a href="software-development.php">Service Segment</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 md-mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/customer-service.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">Sales & Support</a></h3>
+                                   </div>
+                                   <div class="services-desc">
+                                       <p>
+                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
+                                       </p>
+                                   </div>
+                               </div>
+                           </div>
+                        </div>
+                    </div>
+                    <div class="sec-title2 text-center mb-40 mt-40">
+                        <h2 class="title">We also deal with</h2>
+                        <div class="heading-line"></div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-6 mb-25">
+                           <div class="services-item">
+                               <div class="services-icon">
+                                   <div class="image-part">
+                                       <img src="assets/images/services/style6/recycle-bin.png" alt="">
+                                   </div>
+                               </div>
+                               <div class="services-content">
+                                   <div class="services-text">
+                                       <h3 class="services-title"><a href="software-development.php">Motion Sensor Wastebin</a></h3>
                                    </div>
                                    <div class="services-desc">
                                        <p>
@@ -207,7 +290,7 @@
                                    </div>
                                </div>
                            </div>
-                        </div>
+                        </div> 
                         <div class="col-lg-4 col-md-6 mb-25">
                            <div class="services-item">
                                <div class="services-icon">
@@ -218,82 +301,6 @@
                                <div class="services-content">
                                    <div class="services-text">
                                        <h3 class="services-title"><a href="software-development.php">Paper Schreder</a></h3>
-                                   </div>
-                                   <div class="services-desc">
-                                       <p>
-                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
-                                       </p>
-                                   </div>
-                               </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb-25">
-                           <div class="services-item">
-                               <div class="services-icon">
-                                   <div class="image-part">
-                                       <img src="assets/images/services/style6/service.png" alt="">
-                                   </div>
-                               </div>
-                               <div class="services-content">
-                                   <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">Service Segment</a></h3>
-                                   </div>
-                                   <div class="services-desc">
-                                       <p>
-                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
-                                       </p>
-                                   </div>
-                               </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb-25">
-                           <div class="services-item">
-                               <div class="services-icon">
-                                   <div class="image-part">
-                                       <img src="assets/images/services/style6/network.png" alt="">
-                                   </div>
-                               </div>
-                               <div class="services-content">
-                                   <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">Networking</a></h3>
-                                   </div>
-                                   <div class="services-desc">
-                                       <p>
-                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
-                                       </p>
-                                   </div>
-                               </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 md-mb-25">
-                           <div class="services-item">
-                               <div class="services-icon">
-                                   <div class="image-part">
-                                       <img src="assets/images/services/style6/customer-service.png" alt="">
-                                   </div>
-                               </div>
-                               <div class="services-content">
-                                   <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">Sales & Support</a></h3>
-                                   </div>
-                                   <div class="services-desc">
-                                       <p>
-                                           At vero eos et accusamus etiusto odio praesentium accusamus etiusto odio data center for managing database.
-                                       </p>
-                                   </div>
-                               </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 sm-mb-25">
-                           <div class="services-item">
-                               <div class="services-icon">
-                                   <div class="image-part">
-                                       <img src="assets/images/services/style6/led-light.png" alt="">
-                                   </div>
-                               </div>
-                               <div class="services-content">
-                                   <div class="services-text">
-                                       <h3 class="services-title"><a href="software-development.php">LED Panel</a></h3>
                                    </div>
                                    <div class="services-desc">
                                        <p>
@@ -598,7 +605,7 @@
             <!-- Testimonial Section End -->
 
             <!-- Blog Section Start -->
-            <div id="rs-blog" class="rs-blog pt-120 pb-120 md-pt-75 md-pb-80">
+            <!--<div id="rs-blog" class="rs-blog pt-120 pb-120 md-pt-75 md-pb-80">
                 <div class="container pt-relative">
                     <div class="sec-left">
                         <h2 class="title wow fadeInDown">Latest Tips &Tricks</h2>
@@ -708,7 +715,7 @@
                         </div>
                      </div>
                 </div>
-            </div>
+            </div>-->
             <!-- Blog Section End -->
 
             <!-- Process Section Start -->
@@ -868,6 +875,15 @@
                                     <!--<img class="hover-logo" src="assets/images/partner/9.png" alt="">
                                     <img class="main-logo" src="assets/images/partner/9.png" alt="">-->
                                     <img src="assets/images/partner/9.png" alt="">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="partner-item">
+                            <div class="logo-img">
+                                <a href="#">
+                                    <!--<img class="hover-logo" src="assets/images/partner/10.png" alt="">
+                                    <img class="main-logo" src="assets/images/partner/10.png" alt="">-->
+                                    <img src="assets/images/partner/10.png" alt="">
                                 </a>
                             </div>
                         </div>
